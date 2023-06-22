@@ -1,0 +1,15 @@
+.categories ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.categories li{
+    background-color: rgb(232, 229, 229);
+    padding: 7px 10px;
+    border-radius: 8px;
+}
+.categories a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}

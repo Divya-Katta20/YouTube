@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 45px;
+}
+.searchBar input{
+    height: 40px;
+    width: 550px;
+    border-radius: 50px;
+    border: solid 1px gainsboro;
+    font-size: 18px;
+    padding-left: 20px;
+}
+.searchBar input:focus{
+    border: 1px solid rgb(123, 212, 244);
+    outline: none;
+}
+.userOptions{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.userOptions h4{
+    background-color: crimson;
+    color: white;
+    padding: 10px 18px ;
+    font-size: 18px;
+    border-radius: 100%;
+}
+
+

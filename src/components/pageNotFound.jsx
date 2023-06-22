@@ -6,5 +6,5 @@ const PageNotFound = () => {
         </div>
      );
 }
- //git add . git commit -m "final commit" git push
+ 
 export default PageNotFound;
